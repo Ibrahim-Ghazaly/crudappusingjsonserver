@@ -1,0 +1,7 @@
+.sidebar{
+  height:calc(100vh - 56px);
+  background-color: #eee;
+}
+.sidebar li{
+  padding: 15px;
+}
